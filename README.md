@@ -2,9 +2,9 @@
 
 Official PyTorch implementation of the paper
 
-> [SEDONA: Search for Decoupled Neural Networks toward Greedy Block-wise Learning](https://openreview.net/forum?id=XLfdzwNKzch)
-> Myeongjang Pyeon, Jihwan Moon, Taeyoung Hahn, and Gunhee Kim
-> *ICLR 2021*
+> [SEDONA: Search for Decoupled Neural Networks toward Greedy Block-wise Learning](https://openreview.net/forum?id=XLfdzwNKzch)   
+> Myeongjang Pyeon, Jihwan Moon, Taeyoung Hahn, and Gunhee Kim  
+> *ICLR 2021*  
 
 ![alt text](misc/greedy.png?raw=true "End-to-end backprop vs. greedy block-wise learning")
 
