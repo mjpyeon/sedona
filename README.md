@@ -1,4 +1,4 @@
-# SEDONA: Search for Decoupled Neural Architectures
+# SEDONA: Searching for Decoupled Neural Architectures
 
 Official PyTorch implementation of the paper
 
