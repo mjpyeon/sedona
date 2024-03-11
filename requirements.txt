@@ -1,6 +1,6 @@
 torchvision==0.7.0
 tqdm==4.48.2
-numpy==1.19.1
-torch==1.6.0
+numpy==1.22.2
+torch==1.13.1
 filelock==3.0.12
-Pillow==7.2.0
+Pillow==10.2.0
